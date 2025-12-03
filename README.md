@@ -1,6 +1,6 @@
 # Shopify - a simple eCommerce app
 
-Welcome to my E-commerce App! This project is a dummy e-commerce application built using React, Tailwind CSS, Vite, TypeScript, and Redux Toolkit. It aims to showcase various features commonly found in e-commerce platforms, including a homepage, product listing page, cart functionality, and user-authenticated pages like account and wishlist.
+Welcome to the E-commerce App! This project is a dummy e-commerce application built using React, Tailwind CSS, Vite, TypeScript, and Redux Toolkit. It aims to showcase various features commonly found in e-commerce platforms, including a homepage, product listing page, cart functionality, and user-authenticated pages like account and wishlist.
 
 ## Features
 
@@ -17,7 +17,6 @@ Welcome to my E-commerce App! This project is a dummy e-commerce application bui
 - **Vite:** A modern build tool that serves your code via native ES Module imports during development for faster performance.
 - **TypeScript:** A statically typed superset of JavaScript that enhances code quality and developer productivity.
 - **Redux Toolkit:** A simplified state management library for managing application state efficiently.
-- **Cypress:** A next-generation front-end testing tool designed for the modern web.
 
 ## Getting Started
 
@@ -26,16 +25,6 @@ Welcome to my E-commerce App! This project is a dummy e-commerce application bui
 3. Start the development server using `npm run dev` or `yarn dev`.
 4. Open your browser and navigate to `http://localhost:5173` to view the application.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -43,10 +32,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Since this is a frontend only project, all the data have been collected from [DummyJSON](https://dummyjson.com/).
-- Special thanks to [Tailwind Labs](https://tailwindcss.com/) and [Redux Toolkit](https://redux-toolkit.js.org/) for their amazing tools and documentation.
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact [me](mailto:alim1496@gmail.com).
-
-Happy coding! 🚀
+For any inquiries or feedback, feel free to contact [me](alinazmiievska@gmail.com).
