@@ -2,6 +2,13 @@
 
 Welcome to my E-commerce App! This project is a dummy e-commerce application built using React, Tailwind CSS, Vite, TypeScript, and Redux Toolkit. It aims to showcase various features commonly found in e-commerce platforms, including a homepage, product listing page, cart functionality, and user-authenticated pages like account and wishlist.
 
+## Screenshots
+
+<img width="1892" height="809" alt="image" src="https://github.com/user-attachments/assets/cf9e0ed6-aaff-4868-bd4d-8b2068f5a904" />
+<img width="1885" height="847" alt="image" src="https://github.com/user-attachments/assets/25409fd1-af80-45c2-ac1f-7abef6b53564" />
+<img width="1889" height="826" alt="image" src="https://github.com/user-attachments/assets/d0ec5692-058c-4920-ace3-9210799420c2" />
+
+
 ## Features
 
 - **Homepage:** Introduce users to your e-commerce platform with attractive banners, featured products, and navigation options.
